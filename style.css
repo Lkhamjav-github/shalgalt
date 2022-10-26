@@ -1,0 +1,147 @@
+/* header */
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    width: 1512;
+    height: auto;
+}
+ul,li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgba(0, 0, 0, 0.8);
+}
+h1{
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    color:rgba(29, 29, 31, 1);
+}
+h2{
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 31px;
+    align-items: center;
+    color: rgba(29, 29, 31, 1);
+}
+a{
+   font-weight: 400;
+   font-size: 21px;
+   line-height: 29px;
+   color: rgba(0,102, 204, 1); 
+   list-style-type: none;
+}
+h3{
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 16px;
+    color:  #F5F5F7 ;
+}
+h4{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 44px;
+    color: #f5f5f7;
+}
+.header-buttons{
+    color: #fff;
+    display: flex;
+    align-items: center;
+  
+}
+.header-jagsaalt{
+    display: flex;
+    gap: 42px;
+}
+.header-apple{
+    padding: 12px 42px 16px 266.51px;
+}
+.header-search{
+    padding-left: 42px;
+    padding-right: 42px;
+}
+.header-shop{
+    padding-right: 262.93px;
+}
+/* header-end */
+/* header-section */
+section{
+    margin-top: 0;
+}
+.second{
+    background-color:#FBFBFD;
+    margin-top: 0;
+
+}
+.second-section-text{
+    align-items: center;
+    padding-left: 635.38px;
+}
+
+.second-section-img{
+    padding-left: 423px;
+}
+/* header-section-end */
+/* help-section */
+.help{
+    background-color: black;
+
+}
+.help-title{
+    color: #fff;
+}
+.help-comm{
+    color: #fff;
+}
+.help-section-text{
+    padding-left: 588.75px;
+    padding-top: 51px;
+}
+.help-section-img{
+    padding-left: 326px;
+}
+/* help-section end */
+/* third-section */
+.third{
+    background-color: rgba(251, 251, 253, 1);
+}
+/* thirdend */
+/* four */
+.four-section{
+    display: flex;
+}
+.four{
+    background-color: black;
+}
+.second-four{
+    background-color: black;
+}
+.four-button{
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+    color:#2997ff;
+}
+/* four-end */
+/* five */
+.section-five{
+    display: flex;
+}
+/* five end */
+/* six */
+.section-six{
+    display: flex;
+}
+.six-title{
+    color: black;
+}
+/* six-end */
+.footer-title{
+    color: black;
+    font-weight: 700;
+    font-size: 64px;
+    
+}
